@@ -14,6 +14,8 @@
 |2018-06-30|星期六|魔镜项目大致完成，进行微调|
 |2018-07-01|星期日|完成魔镜项目|
 |2018-07-04---07-16||互联网+比赛|
+|2018-07-28|星期六|个人博客制作，commit:[38e0254](https://github.com/musistudio/Ylog/commit/3e80254ba7edb8638e4c93ac4c92e0a4da8842b6)|
+|2018-07-29|星期日|个人博客制作，commit:[38bfcc6](https://github.com/musistudio/Ylog/commit/38bfcc62806bffa03020dc956379beda63a00f2b)|
 |2018-07-30|星期一|个人博客制作，commit:[ae5afdc](https://github.com/musistudio/Ylog/commit/aefa5dc2b7c700ce5f14f30b235c38908ec67f74)|
 |2018-07-31|星期二|个人博客制作，commit:[4b1dc6c](https://github.com/musistudio/Ylog/commit/4b1dc6cfae7b8bc5d668325499c6f923bd8c4202)|
 |2018-08-01|星期三|个人博客制作，commit:[cd2199c](https://github.com/musistudio/Ylog/commit/cd2199ce2a151c118bad60a83b16b4428ea03d7b)|
