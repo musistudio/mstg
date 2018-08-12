@@ -21,6 +21,12 @@
 |2018-08-01|星期三|个人博客制作，commit:[cd2199c](https://github.com/musistudio/Ylog/commit/cd2199ce2a151c118bad60a83b16b4428ea03d7b)|
 |2018-08-02|星期四|个人博客制作，commit:[98b9df4](https://github.com/musistudio/Ylog/commit/98b9df482e66307e06690c3e1847b0a278440f69)|
 |2018-08-03|星期五|个人博客制作，commit:[a1a3973](https://github.com/musistudio/Ylog/commit/a1a397386e7bc3037d0f78c45d0ba6726e91892f)|
-|2018-08-03|星期六|个人博客制作，commit:[c36aee7](https://github.com/musistudio/Ylog/commit/c36aee7db6adc2f05ebcfbf4eb3609e79b26bce0)<br>学习线代|
-|2018-08-04|星期日|学习线代|
-|2018-08-04|星期一|学习Node.js|
+|2018-08-04|星期六|个人博客制作，commit:[c36aee7](https://github.com/musistudio/Ylog/commit/c36aee7db6adc2f05ebcfbf4eb3609e79b26bce0)<br>学习线代|
+|2018-08-05|星期日|学习线代|
+|2018-08-06|星期一|学习Node.js|
+|2018-08-07|星期二|学习Node.js<br />学习线性代数|
+|2018-08-08|星期三|学习Node.js<br />学习线性代数|
+|2018-08-09|星期四|学习前端规范|
+|2018-08-10|星期五|学习Less|
+|2018-08-11|星期六|学习Less|
+|2018-08-12|星期日|学习Cocos<br />学习微信小游戏|
